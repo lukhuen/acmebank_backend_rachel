@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "acmebank-rachel",
+  "private_key_id": "10116c3689c65ac53c0d164e5f884ef2c4c0ea9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDcVkuVDuNzsdFK\nCIj5WyOfvxbArqDq5Eytj/KnlNoJORcj+FHWA6wSnD4wBk77iueiqgqhboaA7sx3\n8vQmFQmeOIeZOzNs9hkp/5v9VbKgFnWIeDBzZ4hEF6IG4Lnv9WiSLhGz/MGEf5bq\n+yFjZmHP6JNEPAidIDNgiCXH9ARG1/Y0q/OUmoSAykmIIzx7MxqXMMB5L8jmV+Tk\nFa61VGs7PVo9XubckG7z8YVDmdQdza+CCkc3H4vyJMt/Xx+sxOrMg0ceTdd02I20\nqHq0MKvnNODKpETDhXJqkgOypKydt/rtJZ+0xfsvPkVuUUVMMf2VorULctF6AyBK\n8ZSE5m4FAgMBAAECggEAaaGpbJWNr7qQ5pg+6qSp6HzY8JkHpnS62f6Hy5WODhvj\nnyf+O8bY6LclDSsJFIjcUdyJaiktrIRPXDYKnHM7gDIDuA9ssREusTbM1uAN2bfK\nsxlDyR/acSKPWBLGsWaKsoIJlKtZLydn99FbiWbc/6q1Z2IMkx+L4fyDeF/g6QDd\nxr3CGFbK3wyijJWm+rexUV6VxhvRjM2G5UmFOgay+2KhpYMQg8k94gPgXmxST73y\nvYQhaGKghlkbHZ57W/d1Oh/CTKadM3B2QjafsASpFOwAg6phECk26Da9VbM/n5/Y\neHqbbg9ahVgCHOGLO1gd57aZhPDF1yexpPddIBB/xQKBgQD/HpBJhpcY4XHTLUBL\nnnoTn3QWK2vNZaqLaxAcKbCy8ib1y/3LvGO8TZ5haHPsH/iT0SkZASEVhiKDCt4W\naO4aLf2FgIoRVSl/HL1qDa3sVXlzCy9/HED09gxm6+l4ZfV1Vj8huFPdkX3FqBuE\n5EDssOh+r1LwB4bmHBr2xl4IPwKBgQDdGP8IpLGtuEQWbXZO2Hr45U6gTwo6g4MS\ng428j1bcPdzeH3yc+O+l53xbesTG3qHDm6OVLineDC0IDlk3p9tFL9+mJ4XJHyxZ\nq9ECPVnDbTh2n6nsXB3qzAaGSuTpHovbR1XLLrANM1oVgGrkOaqsh1C6LlCATMne\n3y8eSm+YuwKBgB0eJ+m8atJ0KMGpkIUQ+W3z7RP6sLsot2ZiOdx9BaXm7XtwZO8z\n+U4srb8AZPq2S3DTlpU8A8KpJJdATkjQgRyL0zvBiACib7IKXbQVC5zFxK7Uv/8K\nAn/y9Udp9aPAP1u9FEeM+kV3rZs5rKpmQuLA7khHSngK4+KvooQ379ORAoGAUS7c\ndlAC7ca7OYD37/uNK9cHB9X9635eom2rnZEEU9pjPyxQlVLSrBhTkUOC/YLB4xFC\n/4Pz25Sc9FhQah84ZC8v79KTTUYlAsgT9r6QNzHjiasWubMZSR2hR644X2DX+aw3\n1GNQQYiZi0ub9DE4eiE1gyd+Z53KggtxQa4TTAECgYAu3Pi3rtXs9MekYB6GL4Zb\nZHfoXQKaBtEYq/L/lgE0V92hjf5wlmvnoRforhCDRa9uQBEggi7QFptN4lIo32jh\nap/oJYyZycASg4Td8A9zsi2PsA15xHQP8fmhv4z7AY/lRp4jwJst4xGLC3Z+w08a\nDx0awz0HKe34PoTfkEqzwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5uggd@acmebank-rachel.iam.gserviceaccount.com",
+  "client_id": "103963710141936599226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5uggd%40acmebank-rachel.iam.gserviceaccount.com"
+}
